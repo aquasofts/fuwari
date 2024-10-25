@@ -5,7 +5,6 @@ import swup from '@swup/astro';
 import Compress from "astro-compress"
 import icon from "astro-icon"
 import { defineConfig } from "astro/config"
-import vercel from '@astrojs/vercel/serverless';
 import Color from "colorjs.io"
 import rehypeAutolinkHeadings from "rehype-autolink-headings"
 import rehypeComponents from "rehype-components"; /* Render the custom directive content */
@@ -32,8 +31,6 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'server',
-  adapter: vercel(),
   site: "https://fuwari.vercel.app/",
   base: "/",
   trailingSlash: "always",
