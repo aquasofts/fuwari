@@ -1,5 +1,5 @@
 ---
-title: 苹果研究人员表示AI模型不具有推理能力
+title: Hello-Word
 published: 2024-10-13
 description: '111'
 image: 'assets/images/demo-banner.jpg'
