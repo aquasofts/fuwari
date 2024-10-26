@@ -1,7 +1,7 @@
 ---
-title: Hello-Word
+title: 苹果研究人员表示AI模型不具有推理能力
 published: 2024-10-13
-description: '111'
+description: '苹果公司的六位人工智能研究人员刚刚发表了一篇关于大语言模型LLM的极好文章'
 image: 'assets/images/demo-banner.jpg'
 tags: []
 category: ''
