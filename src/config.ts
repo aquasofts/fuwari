@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: '星月落下，编织温柔的童话',
+  title: '百花编织爱的颂歌',
   subtitle: '无瑕的少女自人群间穿行，将人之美尽收眼底。',
   lang: 'zh_CN',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
