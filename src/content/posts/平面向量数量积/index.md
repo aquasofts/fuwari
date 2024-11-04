@@ -1,11 +1,13 @@
-> title: 平面向量数量积
-> published: 2024-10-13
-> description: '，喵喵？'
-> image: 'assets/images/demo-banner.jpg'
-> tags: []
-> category: ''
-> draft: false 
-> lang: 'zn-cn'
+---
+title: 平面向量数量积
+published: 2024-11-05
+description: ''
+image: ''
+tags: []
+category: ''
+draft: false 
+lang: 'zn-cn'
+---
 
 前言：
 
