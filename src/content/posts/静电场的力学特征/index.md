@@ -1,8 +1,8 @@
 ---
 title: 静电场的力学特征
 published: 2024-11-05
-description: '苹果公司的六位人工智能研究人员刚刚发表了一篇关于大语言模型LLM的极好文章'
-image: 'assets/images/demo-banner.jpg'
+description: '闲的。'
+image: ''
 tags: []
 category: ''
 draft: false 
