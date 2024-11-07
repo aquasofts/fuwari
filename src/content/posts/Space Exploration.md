@@ -27,7 +27,7 @@ Why do they do it? Because human is desire to learn space all that they vote som
 
 
 
-Actually, our school make an argument that is space exploration important?
+Recently, our school make an argument that is space exploration important?
 
 30 percent of people in my school think it's not important because they are so far about our daily life.
 
