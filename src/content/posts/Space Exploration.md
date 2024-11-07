@@ -17,9 +17,13 @@ Maybe have a lot of wrong. Don't angry please.
 
 
 
+
+
 Space Exploration is a giant thing. Astronauts have to leap the earth gravity. 
 
 Why do they do it? Because human is desire to learn space all that they vote some astronauts to exploration space. 
+
+
 
 
 
@@ -29,4 +33,6 @@ Actually, our school make an argument that is space exploration important?
 
 
 
-They think we are space so many money on space exploration. otherwise we could solve more problems example  hungry and pollution .
+
+
+They think we are put into space so many money on space exploration. otherwise we could solve more problems example  hungry and pollution .
